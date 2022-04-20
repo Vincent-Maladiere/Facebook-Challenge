@@ -1,6 +1,6 @@
-A cafeteria table consists of a row of $N$ seats, numbered from $1$ to $N$ from left to right. Social distancing guidelines require that every diner be seated such that $K$ seats to their left and $K$ seats to their right (or all the remaining seats to that side if there are fewer than $K$) remain empty. <br>
+A cafeteria table consists of a row of *N* seats, numbered from *1* to *N* from left to right. Social distancing guidelines require that every diner be seated such that *K* seats to their left and *K* seats to their right (or all the remaining seats to that side if there are fewer than *K*) remain empty. <br>
 
-There are currently $M$ diners seated at the table, the $ith$ of whom is in seat $S_i$. <br>
+There are currently *M* diners seated at the table, the *ith* of whom is in seat *S_i*. <br>
 
 No two diners are sitting in the same seat, and the social distancing guidelines are satisfied. <br>
 
