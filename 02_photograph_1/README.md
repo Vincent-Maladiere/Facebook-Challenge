@@ -1,1 +1,1 @@
-![exercice](exercice.png)
+[<img src="exercice.png" width="400"/>](exercice.png)
